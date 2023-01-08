@@ -1,0 +1,63 @@
+// 화이트
+$my-blue: #55b2cf;
+$my-red: #cf5555;
+$my-black: black;
+$my-white: white;
+$hover-color: rgba(226, 226, 226, 0.63);
+$gray-back: #F5F5F5;
+$gray-txet-hard: rgb(75, 75, 75);
+$gray-txet: rgb(167, 167, 167);
+$gray-hard: rgb(210, 210, 210);
+$gray-border: rgba(197, 197, 197, 0.699);
+$like-red: rgb(231, 58, 58);
+$chat-green: rgb(3, 221, 148);
+$search-info: #74747B;
+
+
+.theme-btn {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 999;
+}
+
+html {
+  color: #343434;
+  &.dark {
+    background: #121212;
+    color: #bbb;
+  }
+  
+  &.dark a {
+    color: white;
+  }
+  &.dark nav {
+    background-color: #121212;
+    box-shadow: 0 1px 0 0 rgba(239, 239, 239, 0.08);
+  }
+  &.dark p {
+    color: white;
+  }
+  &.dark div {
+    color: #bbb;
+    &.article-item:hover {
+      background-color: #343434;
+    }
+    &.modal-card {
+      background-color: #121212;
+    }
+    &.search-info {
+      background-color: #343434;
+    }
+    &.nav__right__signup {
+      border: 1px solid white;
+    }
+  }
+  &.dark input {
+    background-color: #bbb;;
+  }
+
+  &.dark .swiper-button-prev:after, &.dark .swiper-button-next:after {
+    color: white;
+  }
+}

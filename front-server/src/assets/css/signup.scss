@@ -1,0 +1,43 @@
+.signup-box {
+  display: flex;
+  align-items: center;
+  align-items: stretch;
+}
+
+.login-box {
+
+}
+
+.score-box {
+  width: 200px;
+  // border: 1px solid black;
+  background-color: $hover-color;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.genre-box {
+  // margin-left: 5px;
+  margin-bottom: 1px;
+  &_name {
+    display: inline-block;
+    padding: 1px;
+    width: 90px;
+  }
+  span {
+    // width: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+.dice-box {
+  text-align: center;
+  height: 100;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  width: 80px;
+}

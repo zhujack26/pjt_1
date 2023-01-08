@@ -1,0 +1,33 @@
+.theme-btn {
+  position: fixed;
+  right: 5%;
+  bottom: 30px;
+}
+
+.darkmode {
+  width: 136px;
+  height: 53px;
+  background-image: url('@/assets/darkmode.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  &:hover {
+    background-image: url('@/assets/darkmode-hover.png');
+    cursor: pointer;
+  }
+}
+
+.lightmode {
+  width: 148px;
+  height: 53px;
+  background-image: url('@/assets/lightmode.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  &:hover {
+    background-image: url('@/assets/lightmode-hover.png');
+    cursor: pointer;
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg",
+  "belongs_to_collection": null,
+  "budget": 200000000,
+  "genres": [
+      {
+          "id": 28,
+          "name": "액션"
+      },
+      {
+          "id": 14,
+          "name": "판타지"
+      },
+      {
+          "id": 878,
+          "name": "SF"
+      }
+  ],
+  "homepage": "",
+  "id": 436270,
+  "imdb_id": "tt6443346",
+  "original_language": "en",
+  "original_title": "Black Adam",
+  "overview": "기원전 가장 번성하고 위대한 고대 국가였지만 현재는 국제 군사 조직 인터갱의 독재 국가로 전락한 칸다크. 인터갱의 눈을 피해 고대 유물을 찾던 '아드리아나'는 우연히 5000년 동안 잠들어 있던 '블랙 아담'을 깨우게 된다.  엄청난 괴력과 스피드, 방탄 능력과 자유자재의 고공비행, 번개를 쏘는 능력까지. 온몸이 무기인 '블랙 아담'은 자신의 앞을 막아서는 인터갱들을 모조리 쓸어버리고 칸다크 국민들은 이에 열광한다. 한편, 그의 폭주를 막기 위해 호크맨, 닥터 페이트, 아톰 스매셔, 사이클론으로 구성된 히어로 군단 '저스티스 소사이어티'가 칸다크에 나타나는데...",
+  "popularity": 17020.709,
+  "poster_path": "/mEdMHGy1FfCUc7PskFO0tibm8jp.jpg",
+  "production_companies": [
+      {
+          "id": 12,
+          "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+          "name": "New Line Cinema",
+          "origin_country": "US"
+      },
+      {
+          "id": 34081,
+          "logo_path": null,
+          "name": "Flynn Picture Company",
+          "origin_country": "US"
+      },
+      {
+          "id": 73669,
+          "logo_path": "/7tmSGstK3KwgcDIuBYLTAayjit9.png",
+          "name": "Seven Bucks Productions",
+          "origin_country": "US"
+      },
+      {
+          "id": 128064,
+          "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+          "name": "DC Films",
+          "origin_country": "US"
+      }
+  ],
+  "production_countries": [
+      {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+      }
+  ],
+  "release_date": "2022-10-19",
+  "revenue": 351000000,
+  "runtime": 125,
+  "spoken_languages": [
+      {
+          "english_name": "Danish",
+          "iso_639_1": "da",
+          "name": "Dansk"
+      },
+      {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+      }
+  ],
+  "status": "Released",
+  "tagline": "세상을 구할 것인가, 파괴할 것인가?",
+  "title": "블랙 아담",
+  "video": false,
+  "vote_average": 6.846,
+  "vote_count": 1228
+}
